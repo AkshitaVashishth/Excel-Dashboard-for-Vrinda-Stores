@@ -1,6 +1,8 @@
 # Excel-Dashboard-for-Vrinda-Stores
 A visual analysis of Vrinda Stores Annual Report for year 2022 in the form of an Excel dashboard to take necessary steps in the following years
 
+📥 [Download the Excel Dashboard](https://github.com/AkshitaVashishth/Excel-Dashboard-for-Vrinda-Stores/raw/main/VrindaStoresDashboard.xlsx)
+
 # Problem Statement #
 To analyze a number of categories in Vrinda Stores 2022 Data and present useful insights to improve the business performance for the following years.
 
