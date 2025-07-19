@@ -39,6 +39,7 @@ To analyze a number of categories in Vrinda Stores 2022 Data and present useful 
 6. Introduction of products suited for winter season can influence the decreasing purchase trends observed in winter months.
 7. Introduction of kids products can also be a beneficial addition to the business considering the target customers' gender and age group.
 
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/6380e5d2-93a6-4617-a585-a554749e0bcc" />
 
    
 
